@@ -1,0 +1,17 @@
+p {
+    color: aqua;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(174, 255, 0);
+}
+
+.box .box2 p{
+    color: violet;
+}
